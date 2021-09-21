@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shakti-loka-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/shakti-loka-react/static/js/main.ff8d9092.chunk.js",
+    "main.js.map": "/shakti-loka-react/static/js/main.ff8d9092.chunk.js.map",
+    "runtime-main.js": "/shakti-loka-react/static/js/runtime-main.0e973460.js",
+    "runtime-main.js.map": "/shakti-loka-react/static/js/runtime-main.0e973460.js.map",
+    "static/js/2.cc910dd9.chunk.js": "/shakti-loka-react/static/js/2.cc910dd9.chunk.js",
+    "static/js/2.cc910dd9.chunk.js.map": "/shakti-loka-react/static/js/2.cc910dd9.chunk.js.map",
+    "static/js/3.043d991c.chunk.js": "/shakti-loka-react/static/js/3.043d991c.chunk.js",
+    "static/js/3.043d991c.chunk.js.map": "/shakti-loka-react/static/js/3.043d991c.chunk.js.map",
+    "index.html": "/shakti-loka-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/shakti-loka-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cc910dd9.chunk.js.LICENSE.txt": "/shakti-loka-react/static/js/2.cc910dd9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shakti-loka-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e973460.js",
+    "static/js/2.cc910dd9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ff8d9092.chunk.js"
+  ]
+}
